@@ -33,11 +33,12 @@ public class ControllerClient implements Konversi {
         
         switch (menuPilihan) {
             case 1: {
-                
+                hasilKonversi = String.valueOf(serviceContract.hasilKonversi(inputBinner, menuPilihan));
                 break;
             }
 
             case 2: {
+                hasilKonversi = String.valueOf(serviceContract.hasilKonversi(inputBinner, menuPilihan));
                 break;
             }
 

@@ -3,7 +3,10 @@ package conv_connection;
 import java.sql.Connection;
 import java.sql.DriverManager;
 
-//FIX
+/**
+ *
+ * @author danbo
+ */
 public class Koneksi {
     
     public Connection connectionDatabase = null;

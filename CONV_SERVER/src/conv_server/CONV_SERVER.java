@@ -11,12 +11,9 @@ import java.rmi.registry.Registry;
  *
  * @author danbo
  */
-
-//Status FIX
 public class CONV_SERVER {
     
     public static void main(String[] args) throws RemoteException, AlreadyBoundException {
-        
         
         ServerController databaseController = new ServerController();
         
