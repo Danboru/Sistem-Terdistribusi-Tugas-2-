@@ -1,0 +1,34 @@
+-- REVISI KETENTUAN TUGAS 1 --
+
+
+- Buat sebuah aplikasi client-server konversi dari Biner ke Hexa, Oktal dan Decimal (RMI + DATABASE) 
+
+ex : 
+- (CLIENT)
+Konversi
+=======
+Masukan Binner : 101010
+
+Pilih Menu
+1. Konversi ke Hexa
+2. Konversi ke Oktal
+3. Konversi ke Decimal
+=================
+Pilih Menu : 3
+Hasil : 42
+
+Jadi di client input binner dan pilih menu.. hasil sesuai dengan menu yang dipilih
+
+- (SERVER)
+mengolah data request dari client, implementasi 1 fungsi dari interface.
+
+- (Interface)
+Hanya mempunyai 1 fungsi, outputnya sesuai dengan pilihan menu client
+
+Ketentuan : 
+- kirim ke 672015205@student.uksw.edu 
+- subject dan nama file : TUGAS2_SISTER_C_NIM
+- format file .rar / .zip, 3 projek di jadikan satu + file database (*.sql)
+- deadline : Sebelum kelas minggu depan. 5 Februari 2018, 09.59
+
+cek blog : elegant-learning.blogspot.com
