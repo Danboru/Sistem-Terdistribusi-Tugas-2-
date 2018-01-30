@@ -28,11 +28,20 @@ public class ServerController extends UnicastRemoteObject implements Konversi {
 
         switch (menuPilihan) {
             case 1: {
-                
+                try {
+                    hasilKonversi = String.valueOf(controller.binaryKeHexa(inputBinner));
+                } catch (SQLException ex) {
+                    Logger.getLogger(ServerController.class.getName()).log(Level.SEVERE, null, ex);
+                }
                 break;
             }
 
             case 2: {
+                try {
+                    hasilKonversi = String.valueOf(controller.binaryKeOktal(inputBinner));
+                } catch (SQLException ex) {
+                    Logger.getLogger(ServerController.class.getName()).log(Level.SEVERE, null, ex);
+                }
                 break;
             }
 

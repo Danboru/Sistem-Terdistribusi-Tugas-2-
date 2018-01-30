@@ -99,5 +99,15 @@ public class Controller {
         
         return decimal;
     }
+    
+    public int binaryKeHexa(int binary) throws SQLException {
+
+        return 0;
+    }
+    
+    public int binaryKeOktal(int binary) throws SQLException {
+
+        return 0;
+    }
 
 }
