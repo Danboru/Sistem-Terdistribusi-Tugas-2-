@@ -3,7 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/Users/danbo/NetBeansProjects/CONV_SERVER/src/conv_server/CONV_SERVER.java</file>
+            <file>file:/Users/danbo/NetBeansProjects/Tugas2/CONV_SERVER/src/conv_connection/Koneksi.java</file>
+            <file>file:/Users/danbo/NetBeansProjects/Tugas2/CONV_SERVER/src/conv_controller/ServerController.java</file>
+            <file>file:/Users/danbo/NetBeansProjects/Tugas2/CONV_SERVER/src/conv_server/CONV_SERVER.java</file>
+            <file>file:/Users/danbo/NetBeansProjects/Tugas2/CONV_SERVER/src/conv_controller/Controller.java</file>
         </group>
     </open-files>
 </project-private>
